@@ -1,2 +1,0 @@
-14
-https://github.com/Seedorina/sb3fw/releases/download/v123/sb3-v14.AppImage
